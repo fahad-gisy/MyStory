@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FHDstories</string>
+    <string name="user">UserName</string>
+    <string name="pass">Password</string>
+    <string name="login">Login</string>
+    <string name="i_accept">I accept terms and condition</string>
+    <string name="forgetpass">Forget Password?</string>
+    <string name="home">Home</string>
+    <string name="logout">Logout</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>

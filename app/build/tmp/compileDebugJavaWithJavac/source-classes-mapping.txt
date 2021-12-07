@@ -1,0 +1,2 @@
+com/example/fhdstories/BuildConfig.java
+ com.example.fhdstories.BuildConfig
