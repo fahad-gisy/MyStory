@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:2:1-35:12
+ADDED from C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:2:1-30:12
 MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\dbnso\.gradle\caches\transforms-3\edeb02fb4cefd454699890f987ffc29f\transformed\jetified-core-ktx-1.7.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\dbnso\.gradle\caches\transforms-3\18d14ff6081cdd4d7e524a53938b4251\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] C:\Users\dbnso\.gradle\caches\transforms-3\408aa2c6bc6d127e4ffa32f46b3d735b\transformed\constraintlayout-2.1.2\AndroidManifest.xml:2:1-11:12
@@ -44,25 +44,25 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\dbnso\.gradle\ca
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\dbnso\.gradle\caches\transforms-3\a3069b0cb7bf77d0867ce0b7cd7f4984\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\dbnso\.gradle\caches\transforms-3\084d9626b7e6e1bb6f4b7736011c1b83\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\dbnso\.gradle\caches\transforms-3\c834ac66386d7ab1cc0524445ed4065d\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:2:1-30:12
 	package
 		ADDED from C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:3:5-37
 		INJECTED from C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:2:1-35:12
+		ADDED from C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:2:1-30:12
 		INJECTED from C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:2:1-35:12
+		ADDED from C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:2:1-30:12
 		INJECTED from C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:5:5-33:19
+ADDED from C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:5:5-28:19
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\dbnso\.gradle\caches\transforms-3\18d14ff6081cdd4d7e524a53938b4251\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\dbnso\.gradle\caches\transforms-3\18d14ff6081cdd4d7e524a53938b4251\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] C:\Users\dbnso\.gradle\caches\transforms-3\408aa2c6bc6d127e4ffa32f46b3d735b\transformed\constraintlayout-2.1.2\AndroidManifest.xml:9:5-20
@@ -114,7 +114,7 @@ ADDED from C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidM
 	android:name
 		ADDED from C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:21:27-74
 activity#com.example.fhdstories.MainActivity
-ADDED from C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:24:9-32:20
+ADDED from C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:24:9-27:20
 	android:exported
 		ADDED from C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:26:13-36
 	android:name

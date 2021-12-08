@@ -48,6 +48,10 @@
         "source": "C:\\Users\\dbnso\\AndroidStudioProjects\\FHDstories\\app\\src\\main\\res\\menu\\nav_menu.xml"
     },
     {
+        "merged": "C:\\Users\\dbnso\\AndroidStudioProjects\\FHDstories\\app\\build\\intermediates\\merged_res\\debug\\layout_nav_header.xml.flat",
+        "source": "C:\\Users\\dbnso\\AndroidStudioProjects\\FHDstories\\app\\src\\main\\res\\layout\\nav_header.xml"
+    },
+    {
         "merged": "C:\\Users\\dbnso\\AndroidStudioProjects\\FHDstories\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\dbnso\\AndroidStudioProjects\\FHDstories\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
     },
@@ -62,6 +66,10 @@
     {
         "merged": "C:\\Users\\dbnso\\AndroidStudioProjects\\FHDstories\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
         "source": "C:\\Users\\dbnso\\AndroidStudioProjects\\FHDstories\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbnso\\AndroidStudioProjects\\FHDstories\\app\\build\\intermediates\\merged_res\\debug\\drawable_night.png.flat",
+        "source": "C:\\Users\\dbnso\\AndroidStudioProjects\\FHDstories\\app\\src\\main\\res\\drawable\\night.png"
     },
     {
         "merged": "C:\\Users\\dbnso\\AndroidStudioProjects\\FHDstories\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",

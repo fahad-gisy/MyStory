@@ -1819,6 +1819,7 @@ int drawable mtrl_popupmenu_background 0x7f070081
 int drawable mtrl_popupmenu_background_dark 0x7f070082
 int drawable mtrl_tabs_default_indicator 0x7f070083
 int drawable navigation_empty_icon 0x7f070084
+int drawable night 0x7f070095
 int drawable notification_action_background 0x7f070085
 int drawable notification_bg 0x7f070086
 int drawable notification_bg_low 0x7f070087
@@ -1840,6 +1841,7 @@ int id BOTTOM_END 0x7f080001
 int id BOTTOM_START 0x7f080002
 int id CTRL 0x7f080003
 int id FUNCTION 0x7f080004
+int id Iv 0x7f0801e3
 int id META 0x7f080005
 int id NO_DEBUG 0x7f080006
 int id SHIFT 0x7f080007
@@ -2296,11 +2298,13 @@ int id transition_position 0x7f0801c9
 int id transition_scene_layoutid_cache 0x7f0801ca
 int id transition_transform 0x7f0801cb
 int id triangle 0x7f0801cc
+int id tvEmail 0x7f0801e4
 int id unchecked 0x7f0801cd
 int id uniform 0x7f0801ce
 int id unlabeled 0x7f0801cf
 int id up 0x7f0801d0
 int id useLogo 0x7f0801d1
+int id userName 0x7f0801e5
 int id vertical_only 0x7f0801d2
 int id view_offset_helper 0x7f0801d3
 int id view_transition 0x7f0801d4
@@ -2447,6 +2451,7 @@ int layout mtrl_picker_header_title_text 0x7f0b0056
 int layout mtrl_picker_header_toggle 0x7f0b0057
 int layout mtrl_picker_text_input_date 0x7f0b0058
 int layout mtrl_picker_text_input_date_range 0x7f0b0059
+int layout nav_header 0x7f0b0073
 int layout notification_action 0x7f0b005a
 int layout notification_action_tombstone 0x7f0b005b
 int layout notification_template_custom_big 0x7f0b005c

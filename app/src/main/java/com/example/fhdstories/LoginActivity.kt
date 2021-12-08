@@ -37,6 +37,7 @@ private fun login(){
     array.add(User("test@test.com","1234"))
     array.add(User("t@test.com","12345"))
     array.add(User("b@test.com","123456"))
+    array.add(User("fhd@gmail.com","123456"))
 
    buttonLogin?.setOnClickListener {
 val username = editTextUser?.text.toString()
@@ -53,7 +54,7 @@ val user = User(username,password)
                break
            }else{
 
-               Toast.makeText(this,"Check your data",Toast.LENGTH_SHORT).show()
+               Toast.makeText(this,"Welcome",Toast.LENGTH_SHORT).show()
            }
 
        }
