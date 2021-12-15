@@ -51,6 +51,7 @@ val user = User(username,password)
              val i = Intent(this,MainActivity::class.java)
                i.putExtra("username",userArray.email)
                startActivity(i)
+               finish()
                break
            }else{
 

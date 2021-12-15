@@ -11,7 +11,7 @@
 9-->C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:5:5-28:19
+11-->C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:5:5-33:19
 12        android:allowBackup="true"
 12-->C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -30,56 +30,67 @@
 20-->C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:11:9-48
 21        <activity
 21-->C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:12:9-14:40
-22            android:name="com.example.fhdstories.LoginActivity"
-22-->C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:13:13-42
+22            android:name="com.example.fhdstories.StoryDetailsActivity2"
+22-->C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:13:13-50
 23            android:exported="false" />
 23-->C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:14:13-37
 24        <activity
-24-->C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:15:9-23:20
-25            android:name="com.example.fhdstories.SplashActivity"
-25-->C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:16:13-43
-26            android:exported="true" >
-26-->C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:17:13-36
-27            <intent-filter>
-27-->C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:18:13-22:29
-28                <action android:name="android.intent.action.MAIN" />
-28-->C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:19:17-69
-28-->C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:19:25-66
-29
-30                <category android:name="android.intent.category.LAUNCHER" />
-30-->C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:21:17-77
-30-->C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:21:27-74
-31            </intent-filter>
-32        </activity>
-33        <activity
-33-->C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:24:9-27:20
-34            android:name="com.example.fhdstories.MainActivity"
-34-->C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:25:13-41
-35            android:exported="true" >
-35-->C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:26:13-36
-36        </activity>
-37
-38        <provider
-38-->[androidx.emoji2:emoji2:1.0.0] C:\Users\dbnso\.gradle\caches\transforms-3\0c8b21db498ae6b6ba22706b7f0dbd1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
-39            android:name="androidx.startup.InitializationProvider"
-39-->[androidx.emoji2:emoji2:1.0.0] C:\Users\dbnso\.gradle\caches\transforms-3\0c8b21db498ae6b6ba22706b7f0dbd1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
-40            android:authorities="com.example.fhdstories.androidx-startup"
-40-->[androidx.emoji2:emoji2:1.0.0] C:\Users\dbnso\.gradle\caches\transforms-3\0c8b21db498ae6b6ba22706b7f0dbd1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
-41            android:exported="false" >
-41-->[androidx.emoji2:emoji2:1.0.0] C:\Users\dbnso\.gradle\caches\transforms-3\0c8b21db498ae6b6ba22706b7f0dbd1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
-42            <meta-data
-42-->[androidx.emoji2:emoji2:1.0.0] C:\Users\dbnso\.gradle\caches\transforms-3\0c8b21db498ae6b6ba22706b7f0dbd1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
-43                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-43-->[androidx.emoji2:emoji2:1.0.0] C:\Users\dbnso\.gradle\caches\transforms-3\0c8b21db498ae6b6ba22706b7f0dbd1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
-44                android:value="androidx.startup" />
-44-->[androidx.emoji2:emoji2:1.0.0] C:\Users\dbnso\.gradle\caches\transforms-3\0c8b21db498ae6b6ba22706b7f0dbd1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
-45            <meta-data
-45-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\dbnso\.gradle\caches\transforms-3\a889c36c21c1e2bc116f811fb6c47330\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
-46                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-46-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\dbnso\.gradle\caches\transforms-3\a889c36c21c1e2bc116f811fb6c47330\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
-47                android:value="androidx.startup" />
-47-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\dbnso\.gradle\caches\transforms-3\a889c36c21c1e2bc116f811fb6c47330\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
-48        </provider>
-49    </application>
-50
-51</manifest>
+24-->C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:15:9-17:40
+25            android:name="com.example.fhdstories.AddStoryActivity"
+25-->C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:16:13-45
+26            android:exported="false" />
+26-->C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:17:13-37
+27        <activity
+27-->C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:18:9-20:40
+28            android:name="com.example.fhdstories.LoginActivity"
+28-->C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:19:13-42
+29            android:exported="false" />
+29-->C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:20:13-37
+30        <activity
+30-->C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:21:9-29:20
+31            android:name="com.example.fhdstories.SplashActivity"
+31-->C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:22:13-43
+32            android:exported="true" >
+32-->C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:23:13-36
+33            <intent-filter>
+33-->C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:24:13-28:29
+34                <action android:name="android.intent.action.MAIN" />
+34-->C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:25:17-69
+34-->C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:25:25-66
+35
+36                <category android:name="android.intent.category.LAUNCHER" />
+36-->C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:27:17-77
+36-->C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:27:27-74
+37            </intent-filter>
+38        </activity>
+39        <activity
+39-->C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:30:9-32:39
+40            android:name="com.example.fhdstories.MainActivity"
+40-->C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:31:13-41
+41            android:exported="true" />
+41-->C:\Users\dbnso\AndroidStudioProjects\FHDstories\app\src\main\AndroidManifest.xml:32:13-36
+42
+43        <provider
+43-->[androidx.emoji2:emoji2:1.0.0] C:\Users\dbnso\.gradle\caches\transforms-3\0c8b21db498ae6b6ba22706b7f0dbd1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+44            android:name="androidx.startup.InitializationProvider"
+44-->[androidx.emoji2:emoji2:1.0.0] C:\Users\dbnso\.gradle\caches\transforms-3\0c8b21db498ae6b6ba22706b7f0dbd1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+45            android:authorities="com.example.fhdstories.androidx-startup"
+45-->[androidx.emoji2:emoji2:1.0.0] C:\Users\dbnso\.gradle\caches\transforms-3\0c8b21db498ae6b6ba22706b7f0dbd1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+46            android:exported="false" >
+46-->[androidx.emoji2:emoji2:1.0.0] C:\Users\dbnso\.gradle\caches\transforms-3\0c8b21db498ae6b6ba22706b7f0dbd1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+47            <meta-data
+47-->[androidx.emoji2:emoji2:1.0.0] C:\Users\dbnso\.gradle\caches\transforms-3\0c8b21db498ae6b6ba22706b7f0dbd1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+48                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+48-->[androidx.emoji2:emoji2:1.0.0] C:\Users\dbnso\.gradle\caches\transforms-3\0c8b21db498ae6b6ba22706b7f0dbd1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+49                android:value="androidx.startup" />
+49-->[androidx.emoji2:emoji2:1.0.0] C:\Users\dbnso\.gradle\caches\transforms-3\0c8b21db498ae6b6ba22706b7f0dbd1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+50            <meta-data
+50-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\dbnso\.gradle\caches\transforms-3\a889c36c21c1e2bc116f811fb6c47330\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+51                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+51-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\dbnso\.gradle\caches\transforms-3\a889c36c21c1e2bc116f811fb6c47330\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+52                android:value="androidx.startup" />
+52-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\dbnso\.gradle\caches\transforms-3\a889c36c21c1e2bc116f811fb6c47330\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+53        </provider>
+54    </application>
+55
+56</manifest>

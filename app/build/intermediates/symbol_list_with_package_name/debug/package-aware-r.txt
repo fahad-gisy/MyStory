@@ -1788,6 +1788,7 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable ic_baseline_add_24
 drawable ic_baseline_home_24
 drawable ic_baseline_logout_new_24
 drawable ic_clock_black_24dp
@@ -1841,6 +1842,7 @@ id ALT
 id BOTTOM_END
 id BOTTOM_START
 id CTRL
+id CV
 id FUNCTION
 id Iv
 id META
@@ -1937,10 +1939,12 @@ id bounce
 id bounceBoth
 id bounceEnd
 id bounceStart
+id buttonAdd
 id buttonPanel
 id cache_measures
 id callMeasure
 id cancel_button
+id cardView
 id carryVelocity
 id center
 id center_horizontal
@@ -2073,6 +2077,7 @@ id layout
 id left
 id leftToRight
 id legacy
+id letter
 id line1
 id line3
 id linear
@@ -2244,7 +2249,9 @@ id startVertical
 id staticLayout
 id staticPostLayout
 id stop
+id storiesRecyclerView
 id stretch
+id subTitle
 id submenuarrow
 id submit_area
 id supportScrollUp
@@ -2287,6 +2294,7 @@ id title
 id titleDividerNoCustom
 id title_template
 id toggle
+id toolBar
 id toolbar
 id top
 id topPanel
@@ -2299,6 +2307,7 @@ id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
 id triangle
+id tvDesc
 id tvEmail
 id unchecked
 id uniform
@@ -2390,10 +2399,13 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_add_story
 layout activity_login
 layout activity_main
 layout activity_splash
+layout activity_story_details2
 layout custom_dialog
+layout custom_layout
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
 layout design_layout_snackbar

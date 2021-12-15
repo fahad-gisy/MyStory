@@ -19,6 +19,12 @@
         android:testOnly="true"
         android:theme="@style/Theme.FHDstories" >
         <activity
+            android:name="com.example.fhdstories.StoryDetailsActivity2"
+            android:exported="false" />
+        <activity
+            android:name="com.example.fhdstories.AddStoryActivity"
+            android:exported="false" />
+        <activity
             android:name="com.example.fhdstories.LoginActivity"
             android:exported="false" />
         <activity
@@ -32,8 +38,7 @@
         </activity>
         <activity
             android:name="com.example.fhdstories.MainActivity"
-            android:exported="true" >
-        </activity>
+            android:exported="true" />
 
         <provider
             android:name="androidx.startup.InitializationProvider"
