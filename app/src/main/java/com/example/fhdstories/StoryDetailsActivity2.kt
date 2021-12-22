@@ -2,6 +2,8 @@ package com.example.fhdstories
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.text.method.ScrollingMovementMethod
+import android.widget.Scroller
 import android.widget.TextView
 import androidx.appcompat.widget.Toolbar
 
@@ -22,6 +24,8 @@ class StoryDetailsActivity2 : AppCompatActivity() {
         toolbar?.setNavigationOnClickListener {
             onBackPressed()
         }
+        storyDesc?.text = desc
+//        storyDesc?.movementMethod
     }
     private fun connectVs(){
       toolbar = findViewById(R.id.toolBar)

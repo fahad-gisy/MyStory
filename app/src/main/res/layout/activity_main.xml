@@ -4,7 +4,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#DBDBDB"
     android:id="@+id/drawer"
     tools:context=".MainActivity">
 
@@ -15,6 +14,8 @@
         >
      <androidx.appcompat.widget.Toolbar
          android:id="@+id/toolbar"
+         android:backgroundTint="@color/purple_200"
+         android:theme="@style/ThemeOverlay.AppCompat.Dark"
          android:layout_width="match_parent"
          android:layout_height="?attr/actionBarSize"
          app:layout_constraintTop_toTopOf="parent"
@@ -42,7 +43,7 @@
     android:src="@drawable/ic_baseline_add_24"
     android:layout_marginEnd="16dp"
     android:tint="@color/white"
-    android:backgroundTint="@color/teal_700"
+    android:backgroundTint="@color/purple_200"
     android:layout_marginBottom="16dp"/>
 
     </androidx.constraintlayout.widget.ConstraintLayout>

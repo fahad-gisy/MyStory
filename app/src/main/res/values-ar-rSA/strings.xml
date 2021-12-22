@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FHDstories</string>
+    <string name="user">اسم المستخدم</string>
+    <string name="pass">كلمة المرور</string>
+    <string name="login">دخول</string>
+    <string name="i_accept">موافق على الاحكام و الشروط</string>
+    <string name="forgetpass">نسيت كلمة المورو?</string>
+    <string name="home">الرئيسية</string>
+    <string name="logout">خروج</string>
+    <string name="open">افتح</string>
+    <string name="close">اغلق</string>
+    <string name="title1">القصة الاولى</string>
+    <string name="subtitle1">تعلم الكولتن</string>
+    <string name="enter_title">ادخل عنوان</string>
+    <string name="enter_subtitle">ادخل عنوان مفصل</string>
+    <string name="enter_desc">الوصف</string>
+    <string name="add_Story"><ا>اضافة قضة</ا></string>
+    <string name="desc1">I started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 novI started learning kotlin in 2021 nov</string>
+
+</resources>

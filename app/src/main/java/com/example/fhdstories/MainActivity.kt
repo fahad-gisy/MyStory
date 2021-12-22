@@ -24,14 +24,25 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         val email = intent.getStringExtra("username")
+
+
         connectVs()
         setSupportActionBar(toolbar)
         supportActionBar?.setDisplayHomeAsUpEnabled(true)
         setupDrawer()
-        updateEmail(email!!)
+
+        try {
+            updateEmail(email!!)
+        }catch (e:RuntimeException){
+            "error"
+        }
+
         drawerClicks()
         openAddStoryActivity()
         disPlayStories()
+
+
+
     }
 
     private fun updateEmail(email: String) {
@@ -92,12 +103,24 @@ class MainActivity : AppCompatActivity() {
 
     private fun disPlayStories() {
         val storiesArray = ArrayList<Story>()
-
-        storiesArray.add(Story("First Story","Kotlin","this is my story am gonna show you how i learnt kotlin and android programming"))
+        storiesArray.add(Story(getString(R.string.title1),getString(R.string.subtitle1),getString(R.string.desc1)))
         storiesArray.add(Story("Second Story","Kotlin","this is my story am gonna show you how i learnt kotlin and android programming"))
         storiesArray.add(Story("Third Story","Kotlin","this is my story am gonna show you how i learnt kotlin and android programming"))
 
         val customAdapter = CustomAdapter (storiesArray,this)
         recyclerView?.adapter = customAdapter
+
+        if (intent.getStringExtra("title") !=null){
+            val title = intent.getStringExtra("title")
+            val subTitle = intent.getStringExtra("subtitle")
+            val desc = intent.getStringExtra("desc")
+
+            val newStory = Story(title!!,subTitle!!,desc!!)
+
+            storiesArray.add(newStory)
+
+             customAdapter.notifyDataSetChanged()
+        }
+
     }
 }
